@@ -7,8 +7,9 @@
     <!-- Favicon -->
     <link rel="icon" href="favicon.png" type="image/png" />
     <!-- CSS -->
-    <link rel="stylesheet" href="/assets/css/style.css" />
     <link rel="stylesheet" href="/assets/css/reset.css"> 
+    <link rel="stylesheet" href="/assets/css/base.css" />
+    <link rel="stylesheet" href="/assets/css/style.css"> 
     <!-- JavaScript -->
     <script src="/assets/js/api.js" defer></script>
     <script src="/assets/js/script.js" defer></script>
@@ -18,38 +19,41 @@
       <nav>
         <ul>
           <li><img src="favicon.png" alt="Persoonlijk Logo" /></li>
-          <li><a href="#about-me">Over mij</a></li>
-          <li><a href="#quotes">Quotes</a></li>
+          <li><a href="#over-mij">Over mij</a></li>
+          <li><a href="#hobbies">Hobbies</a></li>
+          <li><a href="#muziek">Muziek</a></li>
+          <li><a href="#vakken">Favoriete vakken op School</a></li>
+          <li><a href="#fotos">Favoriete foto's</a></li>
         </ul>
       </nav>
     </header>
     <main>
-      <section id="title">
+      <section >
         <h1>Lukas Olivier</h1>
         <p id="quote-api">Loading...</p>
       </section>
-      <section id="about-me">
-        <h2>Over mij</h2>
+      <section>
+        <h2 id="over-mij">Over mij</h2>
         <p>
           Hoi! Ik neem je mee op een reis door mijn leven. Ik hou ervan om
           verschillende dingen te ontdekken, zoals mijn hobby's en favoriete
           vakken op school. Laat me je wat meer vertellen over wie ik ben.
         </p>
-        <h3>Hobby's</h3>
+        <h3 id="hobbies">Hobby's</h3>
         <p>
           In mijn vrije tijd doe ik graag dingen die ik leuk vind. Bijvoorbeeld,
           ik hou ervan om foto's te maken, te lezen in spannende boeken, en af
           en toe een frisse wandeling te maken. Balans is belangrijk voor me, en
           ik ontdek steeds meer over mezelf.
         </p>
-        <h3>Muziek</h3>
+        <h3 id="music">Muziek</h3>
         <p>
           Muziek is altijd bij me. Ik luister naar allerlei soorten muziek,
           zoals rustige jazz en energieke rock. Nieuwe liedjes ontdekken en
           live-optredens bijwonen zijn momenten die ik koester. Het is alsof ik
           mijn eigen levenssoundtrack maak.
         </p>
-        <h3>Favoriete vakken op School</h3>
+        <h3 id="vakken">Favoriete vakken op School</h3>
         <p>
           Op school geniet ik van bepaalde vakken die me echt interesseren.
           Bijvoorbeeld, ik vind het leuk om dieper in te gaan op wetenschap en
@@ -57,6 +61,8 @@
           verhalen tijdens de lessen Nederlands. Elke les vormt mijn kijk op
           dingen en maakt me nieuwsgierig naar meer kennis.
         </p>
+
+        <h3 id="fotos">Favoriete foto's</h3>
         <img
           src="https://picsum.photos/200/300"
           alt="Willekeurige Afbeelding 1"
@@ -71,26 +77,9 @@
         />
       </section>
 
-      <section id="quotes">
-        <form>
-          <h2>Deel je Wijsheid - Voeg nieuwe quotes toe!</h2>
-          <input
-            type="text"
-            name="quote"
-            id="quote-input"
-            placeholder="Voer hier je quote in"
-          />
-          <input id="add-quote" type="submit" value="Versturen" />
-        </form>
-      </section>
     </main>
     <footer>
-      <ul>
-        <li><a href="#">Twitter</a></li>
-        <li><a href="#">Instagram</a></li>
-        <li><a href="#">Facebook</a></li>
-      </ul>
-
+      <p>Gemaakt door Lukas Olivier</p>
     </footer>
   </body>
 </html>
