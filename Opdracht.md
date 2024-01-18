@@ -12,6 +12,10 @@ Voor je begint, lees de [uitleg over HTML](Uitleg.md).
 
 Gebruik het [voorbeeld](#voorbeeld) als inspiratie. Roep ons gerust als je vastzit 😄.
 
+### 0. Waar begin ik?
+
+Ga naar de `index.html` pagina. Hierin staat al een basisstructuur voor je pagina. Je hoeft hier niets aan te veranderen. Je mag beginnen met het toevoegen van elementen in de `<body>`.
+
 ### 1. Header
 
 Voeg een `<header>` toe met een navigatiebalk (`<nav>`). De navigatiebalk moet links bevatten naar de verschillende secties van je pagina. Gebruik hiervoor een ongeordende lijst (`<ul>`) en lijstitems (`<li>`).
@@ -69,6 +73,10 @@ Doel:
 Leer basis CSS-eigenschappen gebruiken om een webpagina te stylen. Het doel is om de pagina er ongeveer zo uit te laten zien als het voorbeeld hieronder.
 
 Voor je begint, lees de [uitleg over CSS](Uitleg.md), roep ons als je vastzit, en bekijk het [voorbeeld](#voorbeeld-met-css) voor inspiratie.
+
+### 0. Waar begin ik deze keer?
+
+Ga naar de `assets/css/style.css` pagina. Deze keer staat er nog niets in. Je mag beginnen met het toevoegen van CSS-eigenschappen die hieronder beschreven staan.
 
 ### 1. Titelgroote aanpassen
 
