@@ -8,7 +8,7 @@ Leer basis HTML-elementen gebruiken om een webpagina te maken.
 Presenteer informatie over jezelf op een gestructureerde manier.
 Voeg eenvoudige stijlelementen toe met CSS om je pagina wat op te fleuren.
 
-Voor je begint, lees de [uitleg over HTML](Uitleg.md).
+Voor je begint, lees de [uitleg over HTML](Hoe%20werk%20je%20met%20HTML%20&%20CSS.md).
 
 Gebruik het [voorbeeld](#voorbeeld) als inspiratie. Roep ons gerust als je vastzit 😄.
 
@@ -72,7 +72,7 @@ Doel:
 
 Leer basis CSS-eigenschappen gebruiken om een webpagina te stylen. Het doel is om de pagina er ongeveer zo uit te laten zien als het voorbeeld hieronder.
 
-Voor je begint, lees de [uitleg over CSS](Uitleg.md), roep ons als je vastzit, en bekijk het [voorbeeld](#voorbeeld-met-css) voor inspiratie.
+Voor je begint, lees de [uitleg over CSS](Hoe%20werk%20je%20met%20HTML%20&%20CSS.md), roep ons als je vastzit, en bekijk het [voorbeeld](#voorbeeld-met-css) voor inspiratie.
 
 ### 0. Waar begin ik deze keer?
 
